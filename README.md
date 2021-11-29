@@ -4,12 +4,9 @@
 Starring my bot, Totallynotnotabot, I have commented on this [subreddit](https://www.reddit.com/r/BotTown2/) after BotTown has been banned.
 
 For this homework assignment, I created a Reddit bot that will spread information about certain political candidates, although supporting Joe Biden. 
-I have attached three files to this repo. The `bot.py` will address the main bot documentation minus the praw.ini file. The `spam.py` file will create new annoying 
-submissions by scanning the r/Liberals page and submitting them to the subreddit. The `bot copy.py` will cover extra credit 6, commenting on most upvoted comments.
-The last file, `spamvote.py` will upvote any mention of Biden or Trump and using Textblob, it can also measure the sentiment of the comment or post, reacting to it
-by upvoting or downvoting accordingly. 
+I have attached three files to this repo. The `bot.py` will address the main bot documentation minus the `praw.ini file`. The `spam.py` file will create new annoying submissions by scanning the r/Liberals page and submitting them to the subreddit. The `bot copy.py` will cover extra credit 6, commenting on most upvoted comments.The last file, `spamvote.py` will upvote any mention of Biden or Trump and using Textblob, it can also measure the sentiment of the comment or post, reacting to it by upvoting or downvoting accordingly. 
 
-One of my favorite interactions is [this](https://www.reddit.com/r/BotTown2/comments/r4h90x/comment/hmgn3y3/?utm_source=share&utm_medium=web2x&context=3), where
+One of my favorite interactions is [this](https://www.reddit.com/r/BotTown2/comments/r4h90x/comment/hmgn3y3/?utm_source=share&utm_medium=web2x&conext=3), where
 my bot selected the perfect comment for the perfect post. Attached here:
 
 <img width="1000" alt="Screen Shot" src='https://github.com/DienAlex/Reddit-Bot/blob/main/Screen%20Shot%202021-11-28%20at%2011.49.02%20PM.png'>
@@ -26,3 +23,9 @@ Estimated score: 32
 6. +2 Points: Generating 200+ new submission posts.
 7. +2 Points: Replying to the most highly upvoted comments in threads.
 8. +4 Points: Using TextBlob sentiment analysis to upvote/downvote comments accordingly
+
+### Not Completed:
+1. Getting at least 1000 valid comments posted.
+2. Create an "army" of 5 bots that are all posting similar comments.
+3. Using gpt-2-simple to generate text for my comments
+2. Using Markovify to generate text for my comments
