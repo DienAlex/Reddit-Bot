@@ -35,7 +35,7 @@ Estimated score: 32
 4. +2 Points: Posting at least 500 valid comments posted.
 6. +2 Points: Generating 200+ new submission posts.
 7. +2 Points: Replying to the most highly upvoted comments in threads.
-8. +4 Points: Using TextBlob sentiment analysis to upvote/downvote comments accordingly
+8. +4 Points: Using TextBlob sentiment analysis to upvote/downvote comments and submissions accordingly
 
 ### Not Completed:
 1. Getting at least 1000 valid comments posted.
