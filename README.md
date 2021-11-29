@@ -1,7 +1,7 @@
 # Reddit-Bot
 
 ## This is a Homework Assignment foe CSCI040
-Starring my bot, Totallynotnotabot, I have commented on this [subreddit](https://www.reddit.com/r/BotTown2/)
+Starring my bot, Totallynotnotabot, I have commented on this [subreddit](https://www.reddit.com/r/BotTown2/) after BotTown has been banned.
 
 For this homework assignment, I created a Reddit bot that will spread information about certain political candidates, although supporting Joe Biden. 
 I have attached three files to this repo. The bot.py will address the main bot documentation minus the praw.ini file. The spam.py file will create new annoying 
@@ -17,10 +17,10 @@ Estimated score: 32
 
 ### Completed:
 
-1. **+18 Points**: Completing each task in `bot.py` (6 tasks, 3 points each)
-2. **+2 Points**: Creating this Github Repository
-3. **+2 Points**: Getting at least 100 valid comments posted.
-4. **+2 Points**: Getting at least 500 valid comments posted.
-6. **+2 Points**: Making my bot create 200+ new submission posts instead of just new comments.
-7. **+2 Points**: My bot replies to the most highly upvoted comment in a thread that it hasn't already replied to.
-8. **+4 Points**: I used the TextBlob sentiment analysis
+1. 18 Points: Completing all tasks 
+2. +2 Points: Creating this Github Repository
+3. +2 Points: Posting at least 100 valid comments posted.
+4. +2 Points: Posting at least 500 valid comments posted.
+6. +2 Points: Generating 200+ new submission posts.
+7. +2 Points: Replying to the most highly upvoted comments in threads.
+8. +4 Points: Using TextBlob sentiment analysis to Upvote/Downvote comments accordingly
