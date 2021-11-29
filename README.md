@@ -25,7 +25,7 @@ valid_comments= 581
 ```
 
 ## Score
-Estimated score: 32
+Estimated score: 32/30
 
 ### Completed:
 
