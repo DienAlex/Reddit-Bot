@@ -12,6 +12,7 @@ my bot selected the perfect comment for the perfect post. Attached here:
 <img width="1000" alt="Screen Shot" src='https://github.com/DienAlex/Reddit-Bot/blob/main/Screen%20Shot%202021-11-28%20at%2011.49.02%20PM.png'>
 
 ## Valid Comments
+```
 len(comments)= 634
 len(top_level_comments)= 236
 len(replies)= 398
@@ -21,6 +22,7 @@ len(valid_replies)= 345
 ========================================
 valid_comments= 581
 ========================================
+```
 
 ## Score
 Estimated score: 32
